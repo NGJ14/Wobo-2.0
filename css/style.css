@@ -250,6 +250,9 @@ input:focus {
   color: #000;
   font-weight: 700;
   margin-bottom: 20px;
+  text-align: center;
+  margin-left: 30px;
+  margin-right: 30px;
 }
 .footerheading{
   font-weight: 700;
