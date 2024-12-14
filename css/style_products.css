@@ -215,6 +215,9 @@ input:focus {
   margin-right: 30px;
   width: 25vw;
 }
+.buyBtn:hover, .addBtn:hover{
+  cursor: pointer;
+}
 .btnCollection {
   display: flex;
 }
